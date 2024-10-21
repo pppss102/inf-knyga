@@ -43,31 +43,39 @@ nariams Justui Kranauskui, Martynui Kriaučiūnui bei Mindaugui Plukui.
 
 Autoriai
 
-Turinys
+Įvado turinys
 -------
 
 .. toctree::
   :maxdepth: 2
 
-  01_algoritmas
-  02_euklido
-  03_pirminiai
-  04_rekursija
+  ivadas/01_algoritmas
+  ivadas/02_euklido
+  ivadas/03_pirminiai
+  ivadas/04_rekursija
 
-  05_perrinkimas
-  06_rikiavimas
-  07_grafų_pagrindai
-  08_oilerio_ciklai
+  ivadas/05_perrinkimas
+  ivadas/06_rikiavimas
+  ivadas/07_grafų_pagrindai
+  ivadas/08_oilerio_ciklai
 
-  09_orientuoti_grafai
-  10_dijkstra
-  11_medžiai
+  ivadas/09_orientuoti_grafai
+  ivadas/10_dijkstra
+  ivadas/11_medžiai
 
-  12_dinaminis
-  13_žaidimai
+  ivadas/12_dinaminis
+  ivadas/13_žaidimai
 
   literatūra
   LICENSE
+
+Tolimesnis kelias
+-------
+
+.. toctree::
+  :maxdepth: 2
+  
+  toliau/00_mastymas
 
 .. rubric:: Išnašos
 
