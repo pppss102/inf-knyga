@@ -9,7 +9,7 @@ Kas dabar bus?
     | Evangelija pagal Luką (Lk 2:10)
 
 Sveiki atvykę į tarptautinių olimpiadų pasaulį! Nuo pirmosios dalies, įvado, sukūrimo praėjo
-daug laiko - viskas spėjo apsiversti aukštyn kelis kartus. Pavyzdžiui, Pascal kalba visiškai nebenaudojama,
+daug laiko - viskas spėjo apsiversti aukštyn kelis kartus. Pavyzdžiui, Pascal kalba visiškai nebenaudojama ir yra neaktuali,
 o ir didėja persidengimas su matematikos olimpiadose sutinkamais kombinatorikos uždaviniais.
 
 Tad nuo to ir pradėkime - prieš pradėdami kapstytis po įvairiausius algoritmus, duomenų struktūras ir kitus 
