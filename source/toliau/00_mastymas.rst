@@ -18,7 +18,7 @@ smagius dalykus, aptarsime keletą esminių uždavinių sprendimo būdų, kurie 
 
 Beje, neturint daug patirties olimpiadose, siūloma nepraleisti įvado - toliau bus laikoma, kad **nuodugniai ir giliai**
 suprantate įvade aptariamas temas (aišku, įvado lygiu).
-Taip pat, norint susitapatinti su užsienio olimpiadomis ir profesionalia programavimo praktika, uždavinių sprendimų kodas bus rašomas anglų kalba.
+Taip pat, norint susitapatinti su užsienio olimpiadomis ir profesionalia programavimo praktika, uždavinių sprendimų kodas bus rašomas anglų kalba (bet komentuojama lietuviškai, tad vertėjo naudoti nereikės).
 
 
 .. rubric:: Išnašos ir patikslinimai
