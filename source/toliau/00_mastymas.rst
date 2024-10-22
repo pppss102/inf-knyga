@@ -41,8 +41,8 @@ Aukščiau tik dangus!
 ir kt., 1984) bei Codeforces, AtCoder ir kitų olimpiadininkų bendruomenių. 
 Kaip visada, konkretūs šaltiniai - išnašose.*
 
-Informatikos užduočių sprendimo metodai
-=======================================
+Užduočių sprendimo metodai
+==========================
 
 Uždavinio sprendimo eigą galime suskirstyti į šiuos svarbius
 žingsnius [#f1]_ [#f2]_:
