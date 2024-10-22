@@ -6,7 +6,8 @@ Kas dabar bus?
 ==============
 
     | *Jie labai išsigando, bet angelas jiems tarė: "Nebijokite! Štai aš skelbiu jums didį džiaugsmą, kuris bus visai tautai."*
-    | Evangelija pagal Luką (Lk 2:10)
+    
+    Evangelija pagal Luką (Lk 2:10)
 
 Sveiki atvykę į tarptautinių olimpiadų pasaulį! Nuo pirmosios dalies, įvado, sukūrimo praėjo
 daug laiko - viskas spėjo apsiversti aukštyn kelis kartus. Pavyzdžiui, Pascal kalba visiškai nebenaudojama ir yra neaktuali,
@@ -19,6 +20,13 @@ smagius dalykus, aptarsime keletą esminių uždavinių sprendimo būdų, kurie 
 Beje, neturint daug patirties olimpiadose, siūloma nepraleisti įvado - toliau bus laikoma, kad **nuodugniai ir giliai**
 suprantate įvade aptariamas temas (aišku, įvado lygiu).
 Taip pat, norint susitapatinti su užsienio olimpiadomis ir profesionalia programavimo praktika, uždavinių sprendimų kodas bus rašomas anglų kalba (bet komentuojama lietuviškai, tad vertėjo naudoti nereikės).
+
+Jei esate jaunesnių klasių (ankstesnės negu 10kl.) moksleivis(-ė), neišsigąskite!
+Dauguma šiame skyrelyje aptariamų uždavinių ir teorijų suprastų 5-os klasės ir jaunesni moksleiviai.
+Niekada neapsiribokite savęs mąstydami, kad kažkoks lygis yra nepasiekiamas ar kažkoks uždavinys yra
+neįmanomas.
+
+Aukščiau tik dangus!
 
 
 .. rubric:: Išnašos ir patikslinimai
