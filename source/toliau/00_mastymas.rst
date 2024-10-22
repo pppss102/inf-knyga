@@ -86,6 +86,14 @@ rekomenduojame peržiūrėti ir išsianalizuoti MIT paskaitų ciklą (anglų kal
 apie matematinius įrodymus (jį galima rasti 
 `čia <https://www.youtube.com/playlist?list=PLB7540DEDD482705B>`_).
 
+Įrodymas prieštaros būdu
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+Invariantai ir monovariantai
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Matematinė indukcija
+^^^^^^^^^^^^^^^^^^^^
 
 Programos kūrimas
 -----------------
