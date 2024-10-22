@@ -44,11 +44,68 @@ Kaip visada, konkretūs šaltiniai - išnašose.*
 Informatikos užduočių sprendimo metodai
 =======================================
 
+Uždavinio sprendimo eigą galime suskirstyti į šiuos svarbius
+žingsnius [#f1]_ [#f2]_:
+
+- Nuoseklus **visos** sąlygos (įskaitant ir pradinių duomenų, laiko ir 
+  atminties apribojimų) perskaitymas
+- Sąlygos supaprastinimas į matematinį modelį, kuriam nagrinėti ir bus
+  kuriami atitinkami algoritmai
+- Bandymas panaudoti anksčiau sutiktus matematinius modelius ar kt. idėjas 
+- Matematinio modelio savybių nagrinėjimas ir pastebėjimai
+- Matematinio modelio apibrėžiamos užduoties sprendimas pasinaudojant
+  klasikinius ar netradicinius algoritmus/metodus
+- Įsitikinimas, ar sprendimas yra teisingas
+- Sprendimą atitinkančios programos rašymas
+- Testavimas, sprendimo pakoregavimas pagal rezultatus
+- Kitų žmonių sprendimų nagrinėjimas
+
+Verta pastebėti, jog kartais dalį šių žingsnių galima praleisti - pavyzdžiui, 
+uždavinys gali būti labai lengvas arba sutiktas anksčiau, tad neapsimoka
+praleisti daug laiko jį nagrinėti.
+
+Sąlygos perskaitymas
+--------------------
+
+Sąlygos supaprastinimas į matematinį modelį
+-------------------------------------------
+
+Sutapatinimas su anksčiau sutiktais modeliais
+---------------------------------------------
+
+Matematinio modelio nagrinėjimas
+--------------------------------
+
+Sprendimo sudarymas
+-------------------
+
+Teisingumo tikrinimas
+---------------------
 Prieš pradedant giliau nagrinėti, norintiems paskaitų su vaizdo įrašais, 
 rekomenduojame peržiūrėti ir išsianalizuoti MIT paskaitų ciklą (anglų kalba) 
 apie matematinius įrodymus (jį galima rasti 
 `čia <https://www.youtube.com/playlist?list=PLB7540DEDD482705B>`_).
 
+
+Programos kūrimas
+-----------------
+
+Testavimas
+----------
+
+Kitų žmonių sprendimų nagrinėjimas
+----------------------------------
+
+Pavyzdžių nagrinėjimas
+======================
+
+
 .. rubric:: Išnašos ir patikslinimai
 
 .. [#f1]
+    Aleksei Daniliuk (Um_nik), How to read problem statements. 
+    `<https://codeforces.com/blog/entry/62730>`_
+
+.. [#f2]
+    Tähvend Uustalu (-is-this-fft-), On "is this greedy or DP", 
+    forcing and rubber bands. `<https://codeforces.com/blog/entry/106346>`_
