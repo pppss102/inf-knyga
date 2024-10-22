@@ -5,8 +5,8 @@ Supažindinimas su platesniu pasauliu
 Kas dabar bus?
 ==============
 
-    | *Jie labai išsigando, bet angelas jiems tarė: "Nebijokite! Štai aš skelbiu
-    | jums didį džiaugsmą, kuris bus visai tautai."*
+    | *Jie labai išsigando, bet angelas jiems tarė: "Nebijokite! Štai aš skelbiu*
+    | *jums didį džiaugsmą, kuris bus visai tautai."*
     
     Evangelija pagal Luką (Lk 2:10)
 
