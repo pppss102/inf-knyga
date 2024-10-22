@@ -1,7 +1,0 @@
-repos:
-  - repo: https://github.com/LilSpazJoekp/docstrfmt
-    rev: stable
-    hooks:
-      - id: docstrfmt
-        language_version: python3
-        types_or: [rst]

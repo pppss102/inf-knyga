@@ -28,6 +28,11 @@ neįmanomas.
 
 Aukščiau tik dangus!
 
+Informatikos užduočių sprendimo metodai
+=======================================
+
+Prieš pradedant giliau nagrinėti, norintiems paskaitų su vaizdo įrašais, rekomenduojame
+peržiūrėti ir išsianalizuoti MIT paskaitų ciklą (anglų kalba) apie matematinius įrodymus (jį galima rasti `čia <https://www.youtube.com/playlist?list=PLB7540DEDD482705B>`_).
 
 .. rubric:: Išnašos ir patikslinimai
 
