@@ -79,8 +79,8 @@ Matematinio modelio nagrinėjimas
 Sprendimo sudarymas
 -------------------
 
-Teisingumo tikrinimas
----------------------
+Sprendimo teisingumo tikrinimas
+-------------------------------
 Prieš pradedant giliau nagrinėti, norintiems paskaitų su vaizdo įrašais, 
 rekomenduojame peržiūrėti ir išsianalizuoti MIT paskaitų ciklą (anglų kalba) 
 apie matematinius įrodymus (jį galima rasti 
