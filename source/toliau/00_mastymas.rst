@@ -38,8 +38,8 @@ kažkoks uždavinys yra neįmanomas.
 Aukščiau tik dangus!
 
 *Kuriant šį skyrių įkvėpimo gauta iš vadovėlio "Matematika" (Vidmantas Pekarskas
-ir kt., 1984) bei Codeforces, AtCoder ir kitų olimpiadininkų bendruomenių
-šaltiniais. Kaip visada, konkretūs šaltiniai - išnašose.*
+ir kt., 1984) bei Codeforces, AtCoder ir kitų olimpiadininkų bendruomenių. 
+Kaip visada, konkretūs šaltiniai - išnašose.*
 
 Informatikos užduočių sprendimo metodai
 =======================================
