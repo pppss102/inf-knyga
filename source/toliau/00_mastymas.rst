@@ -5,8 +5,8 @@ Supažindinimas su platesniu pasauliu
 Kas dabar bus?
 ==============
 
-    | *Jie labai išsigando, bet angelas jiems tarė: "Nebijokite! Štai aš skelbiu*
-    | *jums didį džiaugsmą, kuris bus visai tautai."*
+  | *Jie labai išsigando, bet angelas jiems tarė: "Nebijokite! Štai aš skelbiu*
+  | *jums didį džiaugsmą, kuris bus visai tautai."*
     
     Evangelija pagal Luką (Lk 2:10)
 
@@ -66,6 +66,26 @@ praleisti daug laiko jį nagrinėti.
 
 Sąlygos perskaitymas
 --------------------
+
+"*Bet skaityti tai visi jau tikrai moka!*", tikriausiai sakysite. Žinokit,
+nustebtumėte. 
+
+Uždavinys - Parametrizuotas nukreipimo instrukcijų srauto generavimas
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  Uždavinio sąlygą galite rasti
+  `čia <https://codeforces.com/contest/1752/problem/A?locale=en>`_.
+
+  ...Gan graži, ar ne?
+
+Uždavinys - Trumpesnis kelias
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  Uždavinio sąlygą galite rasti
+  `čia <https://oj.uz/problem/view/IOI16_shortcut>`_.
+
+  Šita sąlyga paprastesnė, bet su dalinėmis užduotimis. Jos kartais gali padėti
+  išspręsti pilną uždavinį, bet kartais yra ir nesusijusios su pilnu sprendimu.
+
+  Pabandykime aptarti visą sąlygą ir dalines užduotis.
 
 Sąlygos supaprastinimas į matematinį modelį
 -------------------------------------------
